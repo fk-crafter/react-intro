@@ -1,3 +1,7 @@
+exemple :
+
+![Sans titre](https://github.com/fk-crafter/react-intro/assets/127132293/521197e0-6c3a-49cd-bb99-db1ec5ab1844)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,6 +73,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-exemple :
-
-![Sans titre](https://github.com/fk-crafter/react-intro/assets/127132293/521197e0-6c3a-49cd-bb99-db1ec5ab1844)
