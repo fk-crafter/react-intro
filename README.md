@@ -1,4 +1,4 @@
-exemple :
+exemple & tutorial :
 
 ![Sans titre](https://github.com/fk-crafter/react-intro/assets/127132293/521197e0-6c3a-49cd-bb99-db1ec5ab1844)
 
